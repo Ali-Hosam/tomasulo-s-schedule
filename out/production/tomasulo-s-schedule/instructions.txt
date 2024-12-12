@@ -1,0 +1,4 @@
+MUl R1 , R2 ,R3
+ADD R4 , R1 ,R3
+MUL R5 , R4 ,R3
+L.D F0, R1
