@@ -1,4 +1,6 @@
+L.W R9, 33
 MUl R1 , R2 ,R3
-ADD R4 , R1 ,R3
+S.d R2, 50
 MUL R5 , R4 ,R3
-L.D R9, 100
+DSUBI R6 , R9 ,10
+ADD R4 , R1 ,R3
